@@ -6,9 +6,6 @@ The Clinic Management System is a digital platform designed to revolutionize hea
 
 ---
 
-## 🌐 Live Demo
-
-[Click here to view the deployed site](https://clinic-management-system-jcks.onrender.com)
 
 ## 🏥 Key Features
 
@@ -59,7 +56,7 @@ The Clinic Management System is a digital platform designed to revolutionize hea
 1. **clone repo**
 
 ```bash
-git clone https://github.com/Udit-kasana/Clinic-management-system.git
+git clone https://github.com/mukeshkumarsoni4/ClinikManagement.git
 ```
 
 2. **in backend folder:**
@@ -71,12 +68,6 @@ touch .env
 
 MONGODB_URI="" //mongodb uri here
 PORT=5000
-
-ACCESS_TOKEN_SECRET=""
-ACCESS_TOKEN_EXPIRY=""
-
-REFRESH_TOKEN_SECRET=""
-REFRESH_TOKEN_EXPIRY=""
 
 CLOUDINARY_URL=""
 ACCESS_TOKEN_SECRET="anything"
